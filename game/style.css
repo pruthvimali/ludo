@@ -1,0 +1,25 @@
+body{
+  background-color:  black;
+  text-align: center;
+  font-family: 'pacifico',cursive;
+}
+.name{
+  color: white;
+  font-size: 50px;
+
+}
+.abcd{
+  border-radius:50%;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.a{
+  color: white;
+  font-size: 50px;
+}
+footer{
+  font-size: 30px;
+  color:white;
+  text-align: center;
+}
