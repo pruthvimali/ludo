@@ -43,10 +43,10 @@ function logic(){
 
   if(score1>50){
     document.getElementById('name1').innerHTML = "Winner:Yogesh ";
-    document.getElementById('name2').innerHTML = "";
+    document.getElementById('name2').innerHTML = "score:"+score1;
   }
   if(score2>50){
     document.getElementById('name1').innerHTML = "winner:Pruthvi ";
-   document.getElementById('name2').innerHTML = "";
+   document.getElementById('name2').innerHTML = "score:"+score2;
   }
 }
