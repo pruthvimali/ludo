@@ -42,11 +42,11 @@ function logic(){
   document.getElementById('name2').innerHTML = "Pruthvi score: " +score2;
 
   if(score1>50){
-    document.getElementById('name1').innerHTML = "Winner:Yogesh score";
+    document.getElementById('name1').innerHTML = "Winner:Yogesh ";
     document.getElementById('name2').innerHTML = "";
   }
   if(score2>50){
-    document.getElementById('name1').innerHTML = "winner:Pruthvi score";
+    document.getElementById('name1').innerHTML = "winner:Pruthvi ";
    document.getElementById('name2').innerHTML = "";
   }
 }
